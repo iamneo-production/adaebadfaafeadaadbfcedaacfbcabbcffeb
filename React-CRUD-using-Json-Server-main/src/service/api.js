@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 
-const url = "http://127.0.0.1:3003/user";
+const url = "https://8081-adaebadfaafeadaadbfcedaacfbcabbcffeb.project.examly.io/user";
 
 export const getallUsers = async (id) => {
     id = id || '';
