@@ -14,7 +14,7 @@
         <sonar.organization>neojarvis</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <sonar.sources>cucumberapp/src/test</sonar.sources>
-        <sonar.tests>springapp/src/main</sonar.tests>
+        <sonar.tests>cucumberapp/src/test</sonar.tests>
         <sonar.java.binaries>target</sonar.java.binaries>
     </properties>
 
