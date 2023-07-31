@@ -11,7 +11,7 @@
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
-        <sonar.organization>neojarvis</sonar.organization>
+        <sonar.organization>iamneo-production</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <sonar.sources>cucumberapp/src/test</sonar.sources>
         <sonar.tests>cucumberapp/src/test</sonar.tests>
